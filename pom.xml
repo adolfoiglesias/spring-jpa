@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.calarix.data</groupId>
-	<artifactId>jpa</artifactId>
+	<artifactId>spring-jpa-dsl-examples</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpa</name>
 	<description>Demo project for Spring Boot with Data JPA</description>
